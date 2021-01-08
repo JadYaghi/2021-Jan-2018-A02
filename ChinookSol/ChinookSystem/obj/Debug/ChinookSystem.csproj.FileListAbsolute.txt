@@ -1,0 +1,12 @@
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\ChinookSystem.dll.config
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\ChinookSystem.dll
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\ChinookSystem.pdb
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\EntityFramework.dll
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\EntityFramework.xml
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\obj\Debug\ChinookSystem.csprojAssemblyReference.cache
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\obj\Debug\ChinookSystem.csproj.CoreCompileInputs.cache
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\obj\Debug\ChinookSystem.csproj.CopyComplete
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\obj\Debug\ChinookSystem.dll
+C:\Users\yaghi\OneDrive\Documents\NAIT\Nait Docs and Files\Semester 4\DMIT2018 - Intermediate App Dev\Github\2021-Jan-2018-A02\ChinookSol\ChinookSystem\obj\Debug\ChinookSystem.pdb
