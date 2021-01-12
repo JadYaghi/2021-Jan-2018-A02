@@ -18,7 +18,7 @@ namespace ChinookSystem.Entities
 
         [StringLength(120, ErrorMessage = "Artist Name limited to 120 characters")]
         [Key]
-        public int ArtistID { get; set; }
+        public int ArtistId { get; set; }
         public string Name 
         { get 
             { return _Name; } 
