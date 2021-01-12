@@ -36,5 +36,15 @@ namespace ChinookSystem.Entities
             set
             { _Label = string.IsNullOrEmpty(value) ? null : value; }
         }
+
+        //[NotMapped] annotations are also allowed
+
+        // navigational properties
+        //many to one direction, child to parent
+        public virtual Artist Artist { get; set; }
+
+        //Nav property
+        //one to many, parent to child
+        public virtual ICollection<Album> Albums { get; set; }
     }
 }
