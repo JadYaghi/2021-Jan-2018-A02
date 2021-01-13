@@ -24,6 +24,8 @@ namespace ChinookSystem.Entities
             { return _Name; } 
           set 
             { _Name = string.IsNullOrEmpty(value) ? null : value; } 
+
+
         }
     }
 }
